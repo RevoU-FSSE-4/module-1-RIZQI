@@ -24,4 +24,4 @@ i`m kind person and enjoying life. Electrical Engineer with focus on High Voltag
 
 ## MY PROJECT
 
-[NISSAN SKYLINE GTR R34](https://rizqiweek2.netlify.app/)
+[NISSAN SKYLINE GTR R34](https://rizqi-week2.netlify.app/)
